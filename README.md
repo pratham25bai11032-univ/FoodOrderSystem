@@ -175,13 +175,13 @@ This proves `equals()` and `hashCode()` override in `MenuItem` is working — Ja
 
 ## 📸 Screenshots
 
-| File | Description |
-|---|---|
-| `assets/01_registration.png` | Regex rejecting `student@com`, then accepting `student@vit.edu` |
-| `assets/02_dashboard.png` | ANSI-coloured main dashboard after login |
-| `assets/03_menu.png` | Tabular restaurant menu (Tandoori Roti excluded — unavailable) |
-| `assets/04_cart.png` | Same item added twice showing Quantity: 2 |
-| `assets/05_invoice.png` | Final time-stamped digital invoice |
+| Preview | File | Description |
+| --- | --- | --- |
+| ![Registration](assets/01_registration.png) | `assets/01_registration.png` | Regex rejecting `student@com`, then accepting `student@vit.edu` |
+| ![Dashboard](assets/02_dashboard.png) | `assets/02_dashboard.png` | ANSI-coloured main dashboard after login |
+| ![Menu](assets/03_menu.png) | `assets/03_menu.png` | Tabular restaurant menu (Tandoori Roti excluded — unavailable) |
+| ![Cart](assets/04_cart.png) | `assets/04_cart.png` | Same item added twice showing Quantity: 2 |
+| ![Invoice](assets/05_invoice.png) | `assets/05_invoice.png` | Final time-stamped digital invoice |
 
 ---
 
@@ -194,13 +194,6 @@ This proves `equals()` and `hashCode()` override in `MenuItem` is working — Ja
 - **Admin Module** — Add `Admin` role extending `Person` to manage restaurants and menus at runtime
 
 ---
-### Screenshots
-
-![Registration](assets/01_registration.png)
-*Regex rejecting `student@com`, then accepting `student@vit.edu`*
-
-![Dashboard](assets/02_dashboard.png)
-*ANSI-coloured main dashboard after login*
 ## Author
 
 **Pratham Yadav**  
