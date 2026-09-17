@@ -194,6 +194,13 @@ This proves `equals()` and `hashCode()` override in `MenuItem` is working — Ja
 - **Admin Module** — Add `Admin` role extending `Person` to manage restaurants and menus at runtime
 
 ---
+### Screenshots
+
+![Registration](assets/01_registration.png)
+*Regex rejecting `student@com`, then accepting `student@vit.edu`*
+
+![Dashboard](assets/02_dashboard.png)
+*ANSI-coloured main dashboard after login*
 ## Author
 
 **Pratham Yadav**  
